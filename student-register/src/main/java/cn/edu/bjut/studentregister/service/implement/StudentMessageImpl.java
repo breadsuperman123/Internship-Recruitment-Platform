@@ -14,8 +14,8 @@ import org.springframework.stereotype.Component;
 import java.util.Random;
 @Component
 public class StudentMessageImpl implements StudentMessageService {
-    private static final String ACCESS_KEY_ID = "LTAI5tDsWMLbqBZh73LFzkvz";
-    private static final String ACCESS_KEY_SECRET = "SGR7TDBMz32qeABsG1gSagXik0IAkp";
+    private static final String ACCESS_KEY_ID = "";
+    private static final String ACCESS_KEY_SECRET = "";
     private static final String SIGN_NAME = "大学生实习招聘平台"; // 短信签名
     private static final String TEMPLATE_CODE = "SMS_465349163"; // 短信模板代码
 
